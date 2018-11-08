@@ -3,6 +3,6 @@ This is one example of a flappyBird AI which trains it self to perfection and ru
 
 The most efective set of inpur attributes is as of what i found: the velocity of the bird, the y-position of the bird, the y-position of both the upcoming pipe gap and the y-position of the gape after that.
 
-![screen]('/images/birdie.png')
+![]('./images/birdie.png')
 
 Above is a screenshot of the program showing the games progres and the state of the network nodes.
